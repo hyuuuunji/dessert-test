@@ -1,0 +1,8 @@
+/*전체 레이아웃*/
+body {
+    background-color: #f5dbef;
+}
+
+* {
+    font-family: 'Jua', sans-serif;
+}
